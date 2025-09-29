@@ -1,0 +1,120 @@
+id_producto,familia,nombre,precio_unitario
+1,Leche,Leche,62
+2,Leche,Nido,177
+3,Leche,Klim,36
+4,Leche,Nan Pro,156
+5,Leche,Nestogeno,134
+6,Leche,La lechera,68
+7,Leche,Canprolac,36
+8,Leche,"Sativa 2,3",22
+9,Leche,Nidina,247
+10,Leche,Nan H.a.,149
+11,Leche,"Nan 2,3,4",159
+12,Leche,Ideal,243
+13,Leche,Desayuno Inteligente,36
+14,Leche,Nutrición y Salud,154
+15,Leche,Mi Vaca (descremada),48
+16,Leche,Svelty,179
+17,Leche,Carnation,26
+18,Leche,Leche Sur,58
+19,Papillas,Papillas,149
+20,Papillas,Nestum,242
+21,Papillas,Papillas Nestlé 8 cereales,68
+22,Papillas,Papillas Nestlé bífidus,85
+23,Papillas,Papillas Nestlé Yogur,160
+24,Cereales,Cereales,213
+25,Cereales,Fitness,158
+26,Cereales,Fitness Choc,243
+27,Cereales,Fitness Dark Choc,70
+28,Cereales,Fitness Choc White,176
+29,Cereales,Fitness Choc Avellana,51
+30,Cereales,Lion,161
+31,Cereales,Chocapic,231
+32,Cereales,Chocapic Avellana,130
+33,Cereales,Cheerios,78
+34,Cereales,Estrellitas,168
+35,Cereales,Estrellita Maria,72
+36,Cereales,Golden Grahams,113
+37,Cereales,Cerelac,250
+38,Cereales,Gold Flakes,34
+39,Cereales,Nesquik,196
+40,Cereales,Frosted Flakes,230
+41,Cereales,Corn Flakes (sin Gluten),50
+42,Cereales,Nesquik Sin Gluten,181
+43,Cereales,Milo,244
+44,Cereales,Trix,130
+45,Cereales,Nestum,10
+46,Cereales,Zucosos (Chile),174
+47,Cereales,Cookie Crisp,213
+48,Cereales,Lucky Charms,116
+49,Barritas de Cereales,Barritas de Cereales,192
+50,Barritas de Cereales,Barritas Golden Grahams,130
+51,Barritas de Cereales,Barritas Nesquik,237
+52,Barritas de Cereales,Barritas Chocapic,27
+53,Barritas de Cereales,Barritas Fitness Choc,66
+54,Barritas de Cereales,Barritas Fitness White,127
+55,Café,Café,11
+56,Café,Nescafé,172
+57,Café,Nescafé Dolce Gusto,83
+58,Café,Kirma (en Perú),118
+59,Café,Nespresso,78
+60,Café,Bonka,63
+61,Café,Eco (En Chile),241
+62,Café,Brasilia,37
+63,Café,Águila,15
+64,Café,El Chana,248
+65,Café,Bracafé,134
+66,Café,Presto,164
+67,Otras bebidas,Otras bebidas,228
+68,Otras bebidas,Nesquik,134
+69,Otras bebidas,Nestea,49
+70,Otras bebidas,Milo,226
+71,Otras bebidas,Yogures Nestlé,230
+72,Otras bebidas,Nestlé Pure Life (Agua Mineral),87
+73,Otras bebidas,Aquarel,144
+74,Otras bebidas,Yogur Mi Vaca (descremado),61
+75,Otras bebidas,Viladrau,213
+76,Otras bebidas,Vascolet,153
+77,Helados,Helados,188
+78,Helados,Savory - Chile,120
+79,Helados,Häagen-Dazs,246
+80,Helados,Helados Nestlé — España.,180
+81,Helados,Frigor — Argentina.,117
+82,Helados,Nestlé Gold,220
+83,Helados,D'Onofrio — Perú.54​,70
+84,Helados,Pela-Pop,98
+85,Helados,Pirulo Jungly,224
+86,Helados,Dreyer,156
+87,Culinarios,Culinarios,229
+88,Culinarios,Maggi,162
+89,Culinarios,Buitoni,18
+90,Culinarios,Solís,102
+91,Culinarios,Litoral,216
+92,Chocolates,Chocolates,35
+93,Chocolates,After Eight,148
+94,Chocolates,Nestlé Extrafino,65
+95,Chocolates,Nestlé Postres,216
+96,Chocolates,Nestlé Caja Roja,102
+97,Chocolates,Nestlé Gold,181
+98,Chocolates,Milkybar,25
+99,Chocolates,Nesquik,196
+100,Chocolates,Kit Kat,146
+101,Chocolates,Garoto (empresa),68
+102,Chocolates,Triángulo,11
+103,Chocolates,Sublime,243
+104,Chocolates,Savoy,159
+105,Chocolates,Crunch,161
+106,Chocolates,Sahne Nuss,205
+107,Chocolates,Butterfinger,227
+108,Chocolates,Galak,127
+109,Chocolates,Baby ruth,240
+110,Chocolates,Trencito,242
+111,Chocolates,Princesa,238
+112,Chocolates,Super 8,68
+113,Chocolates,Triángulo,108
+114,Comidas para animales,Comidas para animales,15
+115,Comidas para animales,Purina Dog Chow,226
+116,Comidas para animales,Cat Chow,218
+117,Comidas para animales,Proplan,171
+118,Comidas para animales,Friskies,112
+119,Comidas para animales,Cat brow,206
